@@ -1,0 +1,2 @@
+rafael/** filter=git-crypt diff=git-crypt
+**/vault.tf filter=git-crypt diff=git-crypt
